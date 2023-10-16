@@ -69,5 +69,5 @@ Rails.application.configure do
   # config.action_cable.disable_request_forgery_protection = true
 end
 Rails.application.configure do
-  config.hosts << "https://rails-production-a07d.up.railway.app/"
+  config.hosts << "rails-production-a07d.up.railway.app"
 end
